@@ -1,0 +1,70 @@
+appnope==0.1.4
+asttokens==2.4.1
+catboost @ https://pypi.org/packages/cp311/c/catboost/catboost-1.2.7-cp311-cp311-macosx_11_0_universal2.whl#sha256=815d31854cdd10feb7243b8f7d49bd8c40d8d402b3ebf4f8f35b113f0accf47e
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1725278078093/work/certifi
+cloudpickle @ file:///home/conda/feedstock_root/build_artifacts/cloudpickle_1729059237860/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+comm==0.2.2
+contourpy @ file:///Users/runner/miniforge3/conda-bld/contourpy_1729602397815/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1696677705766/work
+debugpy==1.8.7
+decorator==5.1.1
+executing==2.1.0
+fonttools @ file:///Users/runner/miniforge3/conda-bld/fonttools_1729530362764/work
+graphviz @ file:///home/conda/feedstock_root/build_artifacts/python-graphviz_1727718607478/work
+imbalanced-learn @ file:///home/conda/feedstock_root/build_artifacts/imbalanced-learn_1728063863984/work
+ipykernel==6.29.5
+ipython==8.29.0
+jedi==0.19.1
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1714665484399/work
+jupyter_client==8.6.3
+jupyter_core==5.7.2
+kiwisolver @ file:///Users/runner/miniforge3/conda-bld/kiwisolver_1725459112978/work
+lightgbm @ file:///home/conda/feedstock_root/build_artifacts/liblightgbm_1728547591057/work
+llvmlite==0.43.0
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+munkres==1.1.4
+nest-asyncio==1.6.0
+numba @ file:///Users/runner/miniforge3/conda-bld/numba_1718888161786/work
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1682210472725/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1726878432242/work
+parso==0.8.4
+patsy @ file:///home/conda/feedstock_root/build_artifacts/patsy_1704469236901/work
+pexpect==4.9.0
+pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1729065715655/work
+platformdirs==4.3.6
+plotly @ file:///home/conda/feedstock_root/build_artifacts/plotly_1726179518483/work
+prompt_toolkit==3.0.48
+psutil==6.1.0
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pyaml @ file:///home/conda/feedstock_root/build_artifacts/pyaml_1727538843841/work
+Pygments==2.18.0
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1728880423364/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytorch_tabnet @ file:///home/conda/feedstock_root/build_artifacts/pytorch-tabnet_1703045192479/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1725456256847/work
+pyzmq==26.2.0
+scikit-learn @ file:///Users/runner/miniforge3/conda-bld/scikit-learn_1726082680844/work/dist/scikit_learn-1.5.2-cp311-cp311-macosx_11_0_arm64.whl#sha256=3e11c6a8c6e1f29b5c6cc7128e1293c320fcf75b9afea5d8bc30960a8ec2d220
+scikit-optimize @ file:///home/conda/feedstock_root/build_artifacts/scikit-optimize_1717589676915/work
+scipy @ file:///Users/runner/miniforge3/conda-bld/scipy-split_1729480751874/work/dist/scipy-1.14.1-cp311-cp311-macosx_11_0_arm64.whl#sha256=368bc6bc76ea4ad0f7fa08c97ec33fd7b5954db278dcbd41da374659eb688492
+seaborn @ file:///home/conda/feedstock_root/build_artifacts/seaborn-split_1714494649443/work
+shap @ file:///Users/runner/miniforge3/conda-bld/shap_1715196518864/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+slicer @ file:///home/conda/feedstock_root/build_artifacts/slicer_1710029110974/work
+stack-data==0.6.3
+statsmodels @ file:///Users/runner/miniforge3/conda-bld/statsmodels_1727986712571/work
+tenacity @ file:///home/conda/feedstock_root/build_artifacts/tenacity_1722278858289/work
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1714400101435/work
+torch @ file:///Users/runner/miniforge3/conda-bld/pytorch-recipe_1675740396714/work
+tornado==6.4.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1730145186354/work
+traitlets==5.14.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1727140567071/work
+unicodedata2 @ file:///Users/runner/miniforge3/conda-bld/unicodedata2_1729704585212/work
+wcwidth==0.2.13
+xgboost @ file:///Users/runner/miniforge3/conda-bld/xgboost-split_1730232572796/work/python-package
